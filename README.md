@@ -23,7 +23,9 @@ You can see the following page
 
 ## DESKTOP VIEW
 
-![image](https://res.cloudinary.com/dboa7dqkl/image/upload/v1682171391/menu1_qer1jc.png)
+![image] (https://res.cloudinary.com/dboa7dqkl/image/upload/v1682171391/menu1_qer1jc.png)
+
+
 ![image](https://res.cloudinary.com/dboa7dqkl/image/upload/v1682171418/menu2_rdqkod.png)
 
 
