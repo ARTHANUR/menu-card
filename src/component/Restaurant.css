@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+/* font-family: 'Playfair Display', serif; */
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Playfair+Display:wght@500&display=swap');
+/* font-family: 'PT Sans', sans-serif; */
+
+
+.card-section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-left: 5rem;
+    margin-top: 2rem;
+
+}
+.card{
+    width: 350px;
+    height: 600px;
+    padding: 1rem;
+    border-radius: 18px;
+    margin: 2rem;
+    box-shadow: 14px 18px 15px 10px rgba(0, 0, 0, 0.25);
+    border: none;
+}
+.card span{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+
+}
+.card span h3{
+    padding-left: 0.8rem;
+    border: 1px solid black;
+    opacity: 0.8;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 18px;
+    color: black;
+}
+.card span p{
+    transform: translate(0.4rem , 0.6rem);
+    color: grey;
+
+}
+
+.card h1{
+    font-family: 'Playfair Display', serif;
+}
+.card div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transform: translate(0 , 1rem);
+}
+.card img{
+    width: 315px;
+    height: 315px;
+    
+}
+.card p{
+    font-family: 'PT Sans', sans-serif;
+    color: rgb(78, 78, 78);
+}
+
+
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav h3{
+    margin: 2rem 2rem;
+    font-family: 'PT Sans', sans-serif;
+    cursor: pointer;
+    color: rgb(65, 64, 64);
+    font-size: 1.6rem;
+    letter-spacing: 1px;
+}
+nav h3:hover{
+    border-bottom: solid green 2px;
+    color: black;
+    
+}
